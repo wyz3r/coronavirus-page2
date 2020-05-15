@@ -1,0 +1,69 @@
+{
+  "title": "Ayudando a los de la esquina",
+  "intro": "En las últimas semanas, las empresas más grandes en el país, han creado diferentes campañas para apoyar directamente a que tienditas y misceláneas sigan en pie durante la cuarentena. ",
+  "colorbg": "#F7A7A6",
+  "imgbg": "https://coronapage.s3-us-west-2.amazonaws.com/ayudando-a-los-de-la-esquina/Portada.jpeg",
+  "privado": true,
+  "sections": [
+    {
+    "type": "textSection",
+    "titulo":"",
+    "body":[
+      "Durante los 50 días que llevamos en el encierro, hemos contado con aliados indispensables, quienes nos han ayudado a mantenernos a flote todos los días. Estos aliados son, nada más y nada menos, que las viejas y confiables tienditas de la esquina. Todos tenemos una tiendita o miscelánea que siempre nos hace el paro, ya sea para comprar desde los antojos más pequeños, hasta los productos indispensables para vivir. ",
+      "Además, solemos crear relaciones cercanas con los tenderos, quienes nos consienten con nuestros productos favoritos y, en estas épocas de contingencia, nos apoyan también hasta con servicio a domicilio. Esto no ha pasado inadvertido para muchas marcas, quienes han buscado ayudar a estos negocios a través de campañas, programas de apoyo y tecnología, para que puedan mantenerse abiertas y seguras. "
+      ]
+  },
+  
+  {
+    "type": "textSection",
+    "titulo":"Te lo prometo, por el Osito Bimbo",
+    "body":[
+      "Bimbo, la empresa panadera más grande del mundo, lanzó una campaña llamada “Bimbo contigo” con la que han apoyado a miles de tiendas y misceláneas. Desde el 11 de mayo comenzó a distribuir un millón de cubrebocas y 300 mil caretas de plástico, como medida preventiva para los tenderos. También ha colocado 200 mil gráficos con protocolos de higiene y distanciamiento en tiendas que venden sus productos. ",
+      "También buscan ayudar a las tiendas con facilidades como Crédito Pesito 1, en la que ofrecen créditos y Qiubo, una plataforma para aceptar pagos con tarjetas y vales. El objetivo es darles herramientas para que las ventas se puedan hacer de manera segura."
+    ]
+  },
+  {
+    "type": "AdvandceSection2",
+    "titulo":"",
+    "subtitulo": "",
+    "body": "",
+    "img": "https://coronapage.s3-us-west-2.amazonaws.com/ayudando-a-los-de-la-esquina/Foto+1.png"
+  },
+  {
+    "type": "textSection",
+    "titulo":"La unión hace la fuerza",
+    "body":[
+      "Otra campaña de gigantes, es la de Coca Cola, Pepsico, Kellog´s y Mars, quienes unieron fuerzas para crear la campaña “Mi tienda segura”. Esta campaña cuenta con comunicación digital y acciones específicas de distanciamiento y protocolos en punto de venta, así como la instalación de 50 mil mamparas de protección para que los tenderos se mantengan seguros, junto con sus consumidores. "
+    ]
+  },
+  {
+    "type": "AdvandceSection2",
+    "titulo":"",
+    "subtitulo": "",
+    "body": "",
+    "img": "https://coronapage.s3-us-west-2.amazonaws.com/ayudando-a-los-de-la-esquina/Foto+2.jpg"
+  },
+  {
+    "type": "textSection",
+    "titulo":"Corona… de la buena",
+    "body":[
+      "Grupo Modelo también lanzó una iniciativa para apoyar a tenderos mexicanos, a través de una plataforma digital llamada “Tiendita Cerca”, que comunica a los establecimientos con los que tienen convenio, con posibles consumidores. Su objetivo es ser aliados de las tienditas y generar flujo de venta. También han realizado donaciones de 300 mil botellas de gel antibacterial, 200 mil litros de agua potable y 600 mil botellas de agua, con el fin ayudar a que se mantenga la higiene preventiva. "
+    ]
+  },
+  {
+    "type": "AdvandceSection2",
+    "titulo":"",
+    "subtitulo": "",
+    "body": "",
+    "img": "https://coronapage.s3-us-west-2.amazonaws.com/ayudando-a-los-de-la-esquina/Foto+3.jpg"
+  },
+    
+    {
+      "type": "textSection",
+      "titulo":"",
+      "body":[
+        "Estas campañas, dirigidas específicamente a las pequeñas tiendas, han causado un efecto enorme, pues han ayudado a que éstas se puedan mantener abiertas. Estas acciones permiten que las microempresas se mantengan dignamente de pie y que los consumidores puedan continuar abasteciéndose de sus productos favoritos. "
+      ]
+    }
+]
+}

@@ -1,0 +1,1812 @@
+{
+  "Posts": [
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 51?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Después del aislamiento, viviremos durante meses con un distanciamiento social, incluso en lo que más deseamos ahora: un viaje.  Ahora tememos a aquellos espacios que han sido ocupados por otras personas.",
+      "fecha": {
+        "day": "13",
+        "month": "05",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-51",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 50?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Campañas que apelan al miedo y al humor para generar consciencia de lo importante que es seguir las reglas del confinamiento ",
+      "fecha": {
+        "day": "12",
+        "month": "05",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-50",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 49?",
+      "cardColor":"#7FCEE3",
+      "abstract": "No fue lo mismo que otros años, pero no pasó desapercibido el momento. Celebrar a las madres tuvo tres funciones: olvidar por un día al coronavirus, darse ánimo para lo que sigue y reactivar un poco la economía. ",
+      "fecha": {
+        "day": "11",
+        "month": "05",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-49",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 48?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Aunque las autoridades han enviado mensajes para cambiar el Día de las Madres,  los esfuerzos de las marcas ya estaban preparadas para ayudarnos a festejarlas sin tener que salir de casa.  ",
+      "fecha": {
+        "day": "10",
+        "month": "05",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-48",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 47?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Las autoridades han confirmado que esta semana se llegó al pico de la pandemia en la Ciudad de México ¿cómo están reaccionado los mexicanos con la noticia?",
+      "fecha": {
+        "day": "09",
+        "month": "05",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-47",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 46?",
+      "cardColor":"#7FCEE3",
+      "abstract": "La cannabis ya es parte del consumo regular para muchos mexicanos, pero sus efectos contra la ansiedad y el estrés, hacen que su valor cobre un nuevo significado con la llegada del COVID-19.",
+      "fecha": {
+        "day": "08",
+        "month": "05",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-46",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 45?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Siguiendo el viejo refrán 'si no pueden contra ellos, úneteles', muchos mexicanos han encontrado oportunidades de trabajo para hacer frente a las demandas que trajo consigo el COVID-19.",
+      "fecha": {
+        "day": "07",
+        "month": "05",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-45",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 44?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Hay personas que vivían encerrados desde antes de que llegara el COVID-19, ¿por qué no aprender un poco de cómo lo hacen?",
+      "fecha": {
+        "day": "06",
+        "month": "05",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-44",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 43?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Conmemorar el 5 de mayo, más que un festejo, nos ayuda a reflexionar sobre cómo podríamos construir un “viva México”, necesario para los momentos de crisis que estamos experimentando.",
+      "fecha": {
+        "day": "05",
+        "month": "05",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-43",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 42?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Tras 42 días de aislamiento oficial, deseamos retomar nuestra cotidianidad, pero seguimos con la incertidumbre de cómo será volver a nuestra vida.",
+      "fecha": {
+        "day": "04",
+        "month": "05",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-42",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 41?",
+      "cardColor":"#7FCEE3",
+      "abstract": "La cuarentena nos ha dado un nuevo estilo de vida en dónde muchos de los mexicanos hemos adaptado hábitos que nos mejoran la vida, pero ¿con cuáles de estos nos vamos a quedar?",
+      "fecha": {
+        "day": "03",
+        "month": "05",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-41",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 40?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Querer no siempre es poder. La disposición y el deseo de vacacionar saliendo de cuarentena está presente en todos, pero ¿saldremos todos desbocados o lo haremos paso a paso?      ",
+      "fecha": {
+        "day": "02",
+        "month": "05",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-40",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 39?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Haciendo un balance al día de hoy, la cuarentena nos ha dado experiencias y aprendizajes, pero la vivencia no es igual para todos.",
+      "fecha": {
+        "day": "01",
+        "month": "05",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-39",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanitos el día 38?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Le dimos colores y papel a los pequeños de la casa para que nos compartieran cómo viven esta cuarentena.",
+      "fecha": {
+        "day": "30",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-38",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 37?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Con la petición #QuédateEnCasa y las restricciones de la Fase tres, los mexicanos hemos tenido que adaptar nuestras salidas ‘al mundo exterior’ mientras esperamos que todo esto pase pronto.",
+      "fecha": {
+        "day": "29",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-37",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 36?",
+      "cardColor":"#7FCEE3",
+      "abstract": "La cuarentena nos está dando la oportunidad de actuar en beneficio de todos pero lograrlo no siempre es fácil",
+      "fecha": {
+        "day": "28",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-36",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 35?",
+      "cardColor":"#7FCEE3",
+      "abstract": "La pandemia polariza las formas de trabajo: mientras unos se exponen por vivir al día, otros sobreviven desde casa a la enfermedad de estar siempre ocupados.      ",
+      "fecha": {
+        "day": "27",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-35",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 34?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Al inicio de la cuarentena nuestros hábitos de compra se vieron afectados por el pánico colectivo; un mes después, estas compras se están modificando.",
+      "fecha": {
+        "day": "26",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-34",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 33?",
+      "cardColor":"#7FCEE3",
+      "abstract": "La cuarentena llegó y perdimos la rutina de la vida diaria, pero con el paso de los días creamos una nueva normalidad con actividades y problemas de la vida diaria.",
+      "fecha": {
+        "day": "25",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-33",
+      "structure": [{}]
+    },
+    
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 32?",
+      "cardColor":"#7FCEE3",
+      "abstract": "El aislamiento social nos obligó a estar en verdadero contacto con nosotros mismos, de ahí que la cuarentena sea un tiempo personal y de rediseño de nuestra propia vida.",
+      "fecha": {
+        "day": "24",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-32",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 31?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Casi como película apocalíptica en 4D, reflexionamos sobre los efectos de la cuarentena en nuestra vida cotidiana y en nuestro rol de consumidor.",
+      "fecha": {
+        "day": "23",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-31",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 30?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Despertamos con la noticia de la Fase tres, pero para los mexicanos la vida sigue como si nada… al menos por ahora.",
+      "fecha": {
+        "day": "22",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-30",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 29?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Tras darnos cuenta de que estamos viviendo un momento histórico y que lo que vivimos no es igual para todos, encontramos que los mexicanos tenemos la resiliencia como el denominador común.",
+      "fecha": {
+        "day": "21",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-29",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 28?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Cuatro formas de sobrevivir a la pandemia: viviéndola en las películas, haciendo nuevos negocios, provocando inspiración o inyectando recursos.",
+      "fecha": {
+        "day": "20",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-28",
+      "structure": [{}]
+    },
+    {
+      "abstract": "Conforme pasan los días nos vamos encontrando con nuevos retos y dificultades. Los números de enfermos empiezan a escalar, las pérdidas económicas empiezan a afectar con más intensidad y los días en cuarentena, cada día, comienzan a ser más inciertos.",
+      "cardColor": "#40C19C",
+      "fecha": {
+        "day": "20",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/personajes-que-inspiran/Portada280x200.jpg",
+      "link": "post/personajes-que-inspiran",
+      "title": "Personajes que inspiran"
+    }, {
+      "abstract": "¿Te llamó la atención el título? A nosotros también, y por eso la pandemia se volvió viral.",
+      "cardColor": "#F7A7A6",
+      "fecha": {
+        "day": "20",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/pandemia/Portada280x200.jpg",
+      "link": "post/pandemia",
+      "title": "Pandemia"
+    }, {
+      "abstract": "\"Como parte de nuestro ADN, los mexicanos tenemos la habilidad de encontrar formas de reinventarnos económicamente, de ser solidarios y de apoyar en lo que se pueda, para ir resolviendo los problemas suscitados por el Covid-19.",
+      "cardColor": "#8163A8",
+      "fecha": {
+        "day": "20",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dios-aprieta-pero-no-ahorca/Portada280x200.jpg",
+      "link": "post/dios-aprieta-pero-no-ahorca",
+      "title": "Dios aprieta pero no ahorca"
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 27?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Con el Covid-19 el planeta se transforma. También nosotros, nuestra casa, nuestra visión del mundo. Una serie de transformaciones para salir renovados de esta cuarentena.",
+      "fecha": {
+        "day": "19",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-27",
+      "structure": [{}]
+    },
+    {
+      "abstract": "La limpieza y el orden de nuestras casas influyen mucho en nuestra salud mental, especialmente durante este aislamiento.",
+      "cardColor": "#E7A628",
+      "fecha": {
+        "day": "19",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/hogar-dulce-hogar/Portada280x200.jpg",
+      "link": "post/hogar-dulce-hogar",
+      "title": "Hogar, dulce hogar"
+    }, {
+      "abstract": "La cuarentena es como nuestro capullo donde nos estamos preparando para salir renovados.",
+      "cardColor": "#94C5FB",
+      "fecha": {
+        "day": "19",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/la-metamorfosis/Portada280x200.jpg",
+      "link": "post/la-metamorfosis",
+      "title": "La Metamorfosis"
+    }, {
+      "abstract": "Ahora que tenemos más tiempo, estamos sacando nuestras dotes culinarias para relajarnos, compartir y convivir.",
+      "cardColor": "#86D888",
+      "fecha": {
+        "day": "19",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/las-penas-con-pan-son-buenas/Portada280x200.jpg",
+      "link": "post/las-penas-con-pan-son-buenas",
+      "title": "Las penas con pan son buenas"
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 26?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Lentos pero seguros, los mexicanos vamos retomando el camino. Ahora en la semana cuatro ya podemos comenzar a sentirnos un poco más tranquilos y fuertes para lo que nos depare la cuarentena.",
+      "fecha": {
+        "day": "18",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-26",
+      "structure": [{}]
+    },
+    {
+      "abstract": "A casi un mes de iniciada la cuarentena en México, el estado de ánimo se ha transformado, hemos, poco a poco, incorporado esta nueva realidad. Por ello, hoy, 45% de nosotros, los mexicanos, nos sentimos más tranquilos y 19% más fuertes.",
+      "cardColor": "#ED515D",
+      "fecha": {
+        "day": "18",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/me-estoy-acostumbrando-a-ti-de-tal-manera/Portada280x200.jpg",
+      "link": "post/me-estoy-acostumbrando-a-ti-de-tal-manera",
+      "numWave": 2,
+      "title": "Me estoy acostumbrando a ti, de tal manera"
+    }, {
+      "abstract": "La sala de conciertos, el escenario de teatro o la pista de baile ahora se han trasladado a nuestro hogar. Los eventos en línea han sido una puerta de escape y conexión para muchas personas en esta cuarentena.",
+      "cardColor": "#40C19C",
+      "fecha": {
+        "day": "18",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/el-show-debe-continuar/foto-1B.jpg",
+      "link": "post/el-show-debe-continuar",
+      "numWave": 2,
+      "title": "El show debe continuar"
+    }, {
+      "abstract": "Entre los que extrañamos como los que no, la cuarentena llegó para confrontarnos con nosotros mismos y también con nuestro “amigo especial”.",
+      "cardColor": "#6298C4",
+      "fecha": {
+        "day": "18",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/el-amor-en-tiempos-de-covid-19/Portada280x200.jpg",
+      "link": "post/el-amor-en-tiempos-de-covid-19",
+      "numWave": 2,
+      "title": "El amor en tiempos de COVID-19"
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 25?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Hacer nuevas reglas durante la cuarentena nos ayuda a mejorar la calidad de vida, aunque sea en el aislamiento. Si éstas se ven trastocadas, podemos romper con los acuerdos familiares y sociales, lo cual afectará el futuro próximo a la cuarentena.",
+      "fecha": {
+        "day": "17",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-25",
+      "structure": [{}]
+    },
+    {
+      "abstract": "De lo que más extrañamos los mexicanos durante esta cuarentena son lugares que nos evocan momentos y experiencias. ",
+      "cardColor": "#947EAC",
+      "fecha": {
+        "day": "17",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/te-extrano-tanto-que-voy-a-enloquecer/Portada280x200.jpg",
+      "link": "post/te-extrano-tanto-que-voy-a-enloquecer",
+      "numWave": 2,
+      "title": "Te extraño tanto, que voy a enloquecer"
+    }, {
+      "abstract": "Estamos observando pero también nos observan. Cualquier movimiento en falso esta cuarentena será más castigado que nunca.",
+      "cardColor": "#DD5D40",
+      "fecha": {
+        "day": "17",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/covidiotas/foto+de+portada.png",
+      "link": "post/covidiotas",
+      "numWave": 2,
+      "title": "#COVIDIOTAS"
+    }, {
+      "abstract": "Las familias mexicanas estamos aprendiendo a distribuir las tareas domésticas, no es una lucha de género, se trata de llevárnosla más ligera para aguantar la cuarentena.",
+      "cardColor": "#86D888",
+      "fecha": {
+        "day": "17",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/el-hogar-es-una-tarea-en-equipo-pero-cada-quien-escoge-que-posicion/Portada280x200.jpg",
+      "link": "post/el-hogar-es-una-tarea-en-equipo-pero-cada-quien-escoge-que-posicion",
+      "numWave": 2,
+      "title": "\"El hogar es una tarea en equipo, pero ¿cada quién escoge qué posición jugar?\""
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 24?",
+      "cardColor":"#7FCEE3",
+      "abstract": "A estas alturas del partido, estamos aprendiendo a escuchar la voz de la experiencia, a movernos más en el comercio electrónico y a resolver en comunidad más allá del coronavirus.",
+      "fecha": {
+        "day": "16",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-24",
+      "structure": [{}]
+    },
+    {
+      "abstract": "Es cierto que el e-commerce nos ha brindado mucha tranquilidad y practicidad esta cuarentena como nunca antes. Sin embargo, habemos muchos que todavía preferimos ir a comprar algunos de nuestros productos al punto de venta.",
+      "cardColor": "#F2985A",
+      "fecha": {
+        "day": "16",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/crear-un-cliente-no-una-venta/portada280x200.jpg",
+      "link": "post/crear-un-cliente-no-una-venta",
+      "numWave": 2,
+      "title": "Crear un cliente, no una venta"
+    }, {
+      "abstract": "Son más de 13 millones de personas mayores de 60 años, los que tienen mucho por enseñarnos durante esta cuarentena. Son más fuertes de lo que creemos.",
+      "cardColor": "#EA8383",
+      "fecha": {
+        "day": "16",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/los-sabios-de-la-familia/Portada280x200.jpg",
+      "link": "post/los-sabios-de-la-familia",
+      "numWave": 2,
+      "title": "Los sabios de la familia"
+    }, {
+      "abstract": "Un sector muy golpeado desde el principio de la cuarentena, a tal grado, que muchos de sus dueños dudan en regresar al escenario por la dificultad de volver a comenzar de cero.",
+      "cardColor": "#6298C4",
+      "fecha": {
+        "day": "16",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/el-mundo-restaurantero-volver-a-empezar-de-cero/Portada280x200.jpg",
+      "link": "post/el-mundo-restaurantero-volver-a-empezar-de-cero",
+      "numWave": 2,
+      "title": "El mundo restaurantero: volver a empezar de cero"
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 23?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Habemos muchos de nosotros que en nuestro día a día nos encontramos con retos diferentes. Los que tenemos mascotas, los que tenemos estudiantes en casa y los que no son de nuestro país hemos tenido que ingeniárnosla para re adaptarnos ante esta “nueva normalidad”.",
+      "fecha": {
+        "day": "15",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-23",
+      "structure": [{}]
+    },
+    {
+      "abstract": "La cuarentena nos pone enfrente los retos de la educación, sólo que desde casa, con los papás aprendiendo didácticas escolares, interactuando con diversas tecnologías y gestionando tiempos de familia y trabajo.",
+      "cardColor": "#ED515D",
+      "fecha": {
+        "day": "15",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/tomar-clases-sin-ir-a-la-escuela/Portada280x200.jpg",
+      "link": "post/tomar-clases-sin-ir-a-la-escuela",
+      "numWave": 2,
+      "title": "¡Tomar clases sin ir a la escuela!"
+    }, {
+      "abstract": "Para sobrevivir al encierro, muchos regresamos al nido a pasarla con los nuestros esta cuarentena. Pero te has preguntado ¿Cómo viven los extranjeros el COVID- 19 lejos de los suyos?\"",
+      "cardColor": "#F7A7A6",
+      "fecha": {
+        "day": "15",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/anecdotas-de-un-extranjero-en-cuarentena/Foto+portada.jpeg",
+      "link": "post/anecdotas-de-un-extranjero-en-cuarentena",
+      "numWave": 2,
+      "title": "Anécdotas de un extranjero en cuarentena"
+    }, {
+      "abstract": "En estos tiempos, las relaciones y vínculos con nuestras mascotas son cada vez más fuertes, y por lo mismo, una de nuestras mayores preocupaciones es encontrar las mejores medidas para ayudarlos esta cuarentena.",
+      "cardColor": "#7FA9D3",
+      "fecha": {
+        "day": "15",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/la-cuarentena-de-mi-mejor-amigo/Portada280x200.jpg",
+      "link": "post/la-cuarentena-de-mi-mejor-amigo",
+      "numWave": 2,
+      "title": "La cuarentena de mi mejor amigo"
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 22?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Conforme pasan los días y la cuarentena avanza, los mexicanos comenzamos a preocuparnos por perder cosas que afectan directamente a lo que más disfrutamos.",
+      "fecha": {
+        "day": "14",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-22",
+      "structure": [{}]
+    },
+    {
+      "abstract": "A lo largo de la cuarentena la tecnología ha sido nuestro aliada para sobrellevar el aislamiento. Sin embargo, hay cosas que nunca podrá reemplazar y el futbol es una de ellas. ¿Cómo la están pasando los aficionados?",
+      "cardColor": "#40C19C",
+      "fecha": {
+        "day": "14",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/quitate-la-camiseta/Portada280x200.jpg",
+      "link": "post/quitate-la-camiseta",
+      "numWave": 2,
+      "title": "¡Quítate la camiseta!"
+    }, {
+      "abstract": "El miedo al desabasto sucede, es un indicador de crisis económica y además nos priva de los productos que queremos y necesitamos. Por eso buscamos evitar con nuestras propias prácticas llegar a ese punto.",
+      "cardColor": "#947EAC",
+      "fecha": {
+        "day": "14",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/que-no-haya-en-anaquel-no-significa-que-hay-desabasto/Portada280x200.jpg",
+      "link": "post/que-no-haya-en-anaquel-no-significa-que-hay-desabasto",
+      "numWave": 2,
+      "title": "Que no haya en anaquel no significa que hay desabasto"
+    }, {
+      "abstract": "A estas alturas de la cuarentena, las medidas de higiene son muy importantes para nosotros los consumidores, a tal grado que empiezan a ser un requisito para elegir a cuál punto de venta vamos.",
+      "cardColor": "#FF777B",
+      "fecha": {
+        "day": "14",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/cuando-la-limpieza-falta-el-amor-acaba/Portada280x200.jpg",
+      "link": "post/cuando-la-limpieza-falta-el-amor-acaba",
+      "numWave": 2,
+      "title": "Cuando la limpieza falta, el amor acaba"
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 21?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Aunque en su mayoría el Covid-19 nos ha traído momentos apocalípticos y estresantes, también nos ha regresado pequeños paraísos como la naturaleza, la libre movilidad y el disfrute de la vida  virtual sin ataduras.",
+      "fecha": {
+        "day": "13",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-21",
+      "structure": [{}]
+    },
+    {
+      "abstract": "Estar tanto tiempo en el mismo lugar es mucho más llevadero cuando nos dejamos llevar y decidimos jugar.",
+      "cardColor": "#8163A8",
+      "fecha": {
+        "day": "13",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/la-cuarentena-el-paraiso-gamer/Portada280x200.jpg",
+      "link": "post/la-cuarentena-el-paraiso-gamer",
+      "numWave": 2,
+      "title": "La cuarentena: el paraíso gamer"
+    }, {
+      "abstract": "Aunque el cuidado del medio ambiente está vigente esta cuarentena, en la mente de los mexicanos pasó a segundo plano… por el momento.",
+      "cardColor": "#F9AC78",
+      "fecha": {
+        "day": "13",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/una-lucha-a-la-vez/Portada280x200.jpg",
+      "link": "post/una-lucha-a-la-vez",
+      "numWave": 2,
+      "title": "Una lucha a la vez"
+    }, {
+      "abstract": "El uso de transporte público en tiempos de coronavirus.",
+      "cardColor": "#40C19C",
+      "fecha": {
+        "day": "13",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/mexicanos-somos-y-en-el-camino-andamos/Portada280x200.jpg",
+      "link": "post/mexicanos-somos-y-en-el-camino-andamos",
+      "numWave": 2,
+      "title": "Mexicanos somos y en el camino andamos."
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 20?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Estamos “regresando de vacaciones” de Semana Santa y no todo el tiempo nos portamos bien. Así, que estamos a la expectativa de lo que pasará en esta 4ª semana de cuarentena.",
+      "fecha": {
+        "day": "12",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-20",
+      "structure": [{}]
+    },
+    {
+      "abstract": "Para muchos mexicanos vamos por la cuarta semana de cuarentena, para otros apenas empieza (especialmente en zonas rurales).",
+      "cardColor": "#F7A7A6",
+      "fecha": {
+        "day": "12",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/hasta-que-el-coronavirus-nos-alcance/Portada280x200.jpg",
+      "link": "post/hasta-que-el-coronavirus-nos-alcance",
+      "numWave": 2,
+      "title": "Hasta que el coronavirus nos alcance"
+    }, {
+      "abstract": "Las vacaciones son un momento que impulsa inspiración, reflexión y nos ayuda a darnos cuenta de lo que queremos en un futuro próximo.",
+      "cardColor": "#947EAC",
+      "fecha": {
+        "day": "12",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/reflexiones-post-vacaciones/Portada280x200.jpg",
+      "link": "post/reflexiones-post-vacaciones",
+      "numWave": 2,
+      "title": " Reflexiones post vacaciones"
+    }, {
+      "abstract": "Recuento de las compras mencionadas en el transcurso de las festividades.",
+      "cardColor": "#F9AC78",
+      "fecha": {
+        "day": "12",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/compras-estrella-de-la-semana/Portada280x200.jpg",
+      "link": "post/compras-estrella-de-la-semana",
+      "numWave": 2,
+      "title": " Compras estrella de la semana"
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 19?",
+      "cardColor":"#7FCEE3",
+      "abstract": "El coronavirus nos quitó nuestra rutina, pero no nos va a quitar nuestra Semana Santa. Las tradiciones nos dan certidumbre y, en este momento de la historia, nos dan un respiro de las nuevas reglas que se están imponiendo.",
+      "fecha": {
+        "day": "11",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-19",
+      "structure": [{}]
+    },
+    {
+      "abstract": "En Semana Santa, algunos mexicanos rompimos con la cuarentena, fue como una pausa a las medidas de seguridad frente al Covid-19, es un respiro antes de regresar nuevamente a la realidad.",
+      "cardColor": "#ED515D",
+      "fecha": {
+        "day": "11",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/esperame-tantito/Portada280x200.jpg",
+      "link": "post/esperame-tantito",
+      "numWave": 2,
+      "title": " Espérame tantito"
+    }, {
+      "abstract": "Ni la cuarentena pudo minimizar el protagonismo culinario de los alimentos del mar esta semana.",
+      "cardColor": "#40C19C",
+      "fecha": {
+        "day": "11",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/camaron-que-se-duerme-se-lo-comen-en-semana-santa/Portada280x200.jpg",
+      "link": "post/camaron-que-se-duerme-se-lo-comen-en-semana-santa",
+      "numWave": 2,
+      "title": " Camarón que se duerme… se lo comen en Semana Santa"
+    }, {
+      "abstract": "El Covid-19 rompió el orden y las reglas de las cosas que conocíamos. Ahora sólo nos queda aprender a improvisar.",
+      "cardColor": "#F7A7A6",
+      "fecha": {
+        "day": "11",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/la-fe-en-cuatro-paredes/Portada280x200.jpg",
+      "link": "post/la-fe-en-cuatro-paredes",
+      "numWave": 2,
+      "title": " La fe en cuatro paredes"
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 18?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Con la cuarentena se ha roto la cotidianidad acostumbrada, la Semana Santa se vuelve un referente que genera confianza porque ayuda a reflexionar o diluye un poco el temor que representa la contingencia.",
+      "fecha": {
+        "day": "10",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-18",
+      "structure": [{}]
+    },
+    {
+      "abstract": "De lo que se trata es de generar actitud y ambiente vacacional, sin salirse de las reglas que nos protegen durante esta cuarentena.",
+      "cardColor": "#6298C4",
+      "fecha": {
+        "day": "10",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/vacacionar-sin-romper-la-burbuja/Portada280x200.jpg",
+      "link": "post/vacacionar-sin-romper-la-burbuja",
+      "numWave": 2,
+      "title": " Vacacionar sin romper la burbuja"
+    }, {
+      "abstract": "Simular escenarios vacacionales o religiosos se volvió una herramienta que nos ayuda a recuperar un poco de lo que hemos perdido esta cuarentena.",
+      "cardColor": "#59B3D5",
+      "fecha": {
+        "day": "10",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/yo-no-voy-a-la-semana-santa-la-semana-santa-viene-a-mi/Portada280x200.jpg",
+      "link": "post/yo-no-voy-a-la-semana-santa-la-semana-santa-viene-a-mi",
+      "numWave": 2,
+      "title": " Yo no voy a la Semana Santa, la Semana Santa viene a mí"
+    }, {
+      "abstract": "Estar encerrados rompe con algunas costumbres importantes en nuestras vidas. Y se nota en la forma en la que estamos viviendo esta Semana Santa, donde se han perdido referentes importantes como el sentido de compromiso o de aventura.",
+      "cardColor": "#F9AC78",
+      "fecha": {
+        "day": "10",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/y-donde-quedo-la-semana-santa/Portada600x330.jpg",
+      "link": "post/y-donde-quedo-la-semana-santa",
+      "numWave": 2,
+      "title": "¿Y dónde quedó la Semana Santa?"
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 17?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Para no apanicarnos frente a tanto problema, nos apropiamos del coronavirus como un personaje al que le hemos generado conversación y contenidos para la vida cotidiana.",
+      "fecha": {
+        "day": "09",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-17",
+      "structure": [{}]
+    },
+    {
+      "abstract": "Siempre puede haber más cosas de qué preocuparnos, además del coronavirus.",
+      "cardColor": "#40C19C",
+      "fecha": {
+        "day": "09",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/con-tantos-problemas-no-somos-un-barril-sin-fondo/Portada280x200.jpg",
+      "link": "post/con-tantos-problemas-no-somos-un-barril-sin-fondo",
+      "numWave": 2,
+      "title": "Con tantos problemas: No somos un barril sin fondo."
+    }, {
+      "abstract": "¡Sí el coronavirus se ha convertido en la estrella del momento!  Tan sólo escuchar su nombre atrae nuestra atención.",
+      "cardColor": "#8163A8",
+      "fecha": {
+        "day": "09",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "\"https://coronapage.s3-us-west-2.amazonaws.com/covid-19-en-el-paseo-de-la-fama/Portada280x200.jpg\"",
+      "link": "post/covid-19-en-el-paseo-de-la-fama",
+      "numWave": 2,
+      "title": "Covid-19 en el paseo de la fama"
+    }, {
+      "abstract": "¿Llega el súper a tu casa y sientes que ya te contagiaste? Existen situaciones que despiertan al hipocondríaco que llevamos dentro.",
+      "cardColor": "#F7A7A6",
+      "fecha": {
+        "day": "09",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/memorias-de-un-hipocondriaco/Portada280x200.jpg",
+      "link": "post/memorias-de-un-hipocondriaco",
+      "numWave": 2,
+      "title": "Memorias de un hipocondríaco"
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 16?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Mantenernos activos resulta una de las herramientas clave para el estrés y la ansiedad en estos tiempos de cuarentena.",
+      "fecha": {
+        "day": "08",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-16",
+      "structure": [{}]
+    },
+    {
+      "abstract": "“Todos tenemos un auto (estacionado), aunque sea en la cabeza”.",
+      "cardColor": "#6298C4",
+      "fecha": {
+        "day": "08",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/mi-auto-frente-a-la-cuarentena/Portada280x200.jpg",
+      "link": "post/mi-auto-frente-a-la-cuarentena",
+      "numWave": 2,
+      "title": "Mi auto frente a la cuarentena"
+    }, {
+      "abstract": "Hoy tenemos necesidad de recuperar el control de nuestras vidas desde casa.",
+      "cardColor": "#EA8383",
+      "fecha": {
+        "day": "08",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/a-retomar-el-control/Portada280x200.jpg",
+      "link": "post/a-retomar-el-control",
+      "numWave": 2,
+      "title": "¡A retomar el control!"
+    }, {
+      "abstract": "Olvidarnos de lo que pasa allá afuera es una forma efectiva de sobrellevar la cuarentena y mantenernos activos resulta una de las herramientas clave para el estrés y la ansiedad.",
+      "cardColor": "#40C19C",
+      "fecha": {
+        "day": "08",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/inhalo-paz-exhalo-tension/Portada280x200.jpg",
+      "link": "post/inhalo-paz-exhalo-tension",
+      "numWave": 2,
+      "title": "Inhalo paz… exhalo tensión"
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 15?",
+      "cardColor":"#7FCEE3",
+      "abstract": "A las pruebas me remito… ante la cuarentena aflora la capacidad de adaptación del mexicano",
+      "fecha": {
+        "day": "07",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-15",
+      "structure": [{}]
+    },
+    {
+      "abstract": "Unos felices y otros desconfiados ante el precio de la gasolina que está bajando. Al final del día, la mayoría de los mexicanos vemos este suceso no sólo como un reflejo de crisis económica sino de incredulidad colectiva.",
+      "cardColor": "#8490FB",
+      "fecha": {
+        "day": "07",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/no-todo-lo-que-sube-tiene-que-bajar/Portada280x200.jpg",
+      "link": "post/no-todo-lo-que-sube-tiene-que-bajar",
+      "numWave": 2,
+      "title": "No todo lo que sube tiene que bajar"
+    }, {
+      "abstract": "El humor es una forma de expresión característica de los mexicanos. Nos apoyamos de él para sacar nuestras mayores preocupaciones y miedos. Si queremos saber qué está pasando hay que preguntarnos: ¿De qué nos estamos riendo?",
+      "cardColor": "#DD5D40",
+      "fecha": {
+        "day": "07",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/mas-vale-reir-que-lamentar/Portada280x200.jpg",
+      "link": "post/mas-vale-reir-que-lamentar",
+      "numWave": 2,
+      "title": "Más vale reír… que lamentar"
+    }, {
+      "abstract": "Esta cuarentena las medidas preventivas más dolorosas para el mexicano son las sociales y aunque estemos encerrados nos ha traído otro tipo de socialización basada en la solidaridad.",
+      "cardColor": "#86D888",
+      "fecha": {
+        "day": "07",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/como-te-extrano-mi-amor-por-que-sera2/Portada600x330.jpg",
+      "link": "post/mas-vale-acompanado-que-solo-frente-al-covid-19",
+      "numWave": 2,
+      "title": " Más vale acompañado, que solo frente al Covid-19"
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 14?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Lo bueno, lo malo y lo que nos falta… así es cómo los mexicanos hemos vivido la pandemia hasta hoy.",
+      "fecha": {
+        "day": "06",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-14",
+      "structure": [{}]
+    },
+    { 
+      "title": "Lo que nos depara el Coronavirus",
+      "cardColor":"#8490FB",
+      "abstract":
+      "A dos semanas de haber comenzado Zona de (Re)conexión, invitamos a nuestros informantes a pronosticar el futuro de los mexicanos después del COVID-19. El escenario no parece muy alentador.",
+      "fecha": {
+        "day": "06",
+        "month": "04",
+        "year": "2020"
+      },
+      "num": "45",
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/lo-que-nos-depara-el-coronavirus/Portada280x200.jpg",
+      "link": "post/lo-que-nos-depara-el-coronavirus",
+      "structure": [{}]
+    },
+    { 
+      "title": "El termómetro del exterior",
+      "cardColor":"#86D888",
+      "abstract":
+      "Los referentes siempre nos ayudan a anticiparnos, compararnos y también a detectar aquello que podría ser mejor.",
+      "fecha": {
+        "day": "06",
+        "month": "04",
+        "year": "2020"
+      },
+      "num": "44",
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/el-termometro-del-exterior/Portada280x200.jpg",
+      "link": "post/el-termometro-del-exterior",
+      "structure": [{}]
+    },
+    { 
+      "title": "El recuento de los daños",
+      "cardColor":"#E7A628",
+      "abstract":
+      "Solo han pasado 2 semanas y ya somos otros. Aquí lo mejor y lo peor de la pandemia, hasta ahora…",
+      "fecha": {
+        "day": "06",
+        "month": "04",
+        "year": "2020"
+      },
+      "num": "43",
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/el-recuento-de-los-danos/Portada280x200.jpg",
+      "link": "post/el-recuento-de-los-danos",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 13?",
+      "cardColor":"#7FCEE3",
+      "abstract": "En tiempos de crisis, podemos ver que en algún nivel estamos en igualdad de condiciones con las marcas, ahora tenemos que ver cómo salimos juntos de ésta.",
+      "fecha": {
+        "day": "05",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-13",
+      "structure": [{}]
+    },
+    { 
+      "title": "Marcas al servicio de la comunidad",
+      "cardColor":"#F9AC78",
+      "abstract":
+      "En plena cuarentena, los consumidores buscamos un vínculo más real con las marcas, pero no sólo se trata de emocionalidad, es asumir la responsabilidad que tenemos todos durante y después del COVID-19.",
+      "fecha": {
+        "day": "05",
+        "month": "04",
+        "year": "2020"
+      },
+      "num": "42",
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/marcas-al-servicio-de-la-comunidad/Portada280x200.jpg",
+      "link": "post/marcas-al-servicio-de-la-comunidad",
+      "structure": [{}]
+    },
+    { 
+      "title": "¿Aliados de batalla?",
+      "cardColor":"#F7A7A6",
+      "abstract":
+      "En plena cuarentena, los consumidores buscamos un vínculo más real con las marcas, pero no sólo se trata de emocionalidad, es asumir la responsabilidad que tenemos todos durante y después del COVID-19.",
+      "fecha": {
+        "day": "05",
+        "month": "04",
+        "year": "2020"
+      },
+      "num": "41",
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/aliados-de-batalla2/Foto+de+portada.jpg",
+      "link": "post/aliados-de-batalla2",
+      "structure": [{}]
+    },
+    { 
+      "title": "Si yo estuviera en su lugar…",
+      "cardColor":"#947EAC",
+      "abstract": 
+      "Marcas. No podemos vivir sin ellas… no podemos vivir con… esperen, a veces podemos vivir sin ellas.",
+      "fecha": {
+        "day": "05",
+        "month": "04",
+        "year": "2020"
+      },
+      "num": "40",
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/si-yo-estuviera-en-su-lugar/Portada280x200.jpg",
+      "link": "post/si-yo-estuviera-en-su-lugar",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 12?",
+      "cardColor":"#7FCEE3",
+      "abstract": "El COVID-19 vino con todo y arrasó con nuestros planes, pero no todo está perdido….",
+      "fecha": {
+        "day": "04",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-12",
+      "structure": [{}]
+    },
+    { 
+      "title": "Lo que el COVID -19 se llevó",
+      "cardColor":"#159BBA",
+      "abstract": "“Tú propones, dios dispone, llega el diablo y todo lo descompone” o, “si quieres hacer reír a dios, cuéntale tus planes”; así es, estos dichos populares reflejan un tanto lo que nos pasó con la llegada de la cuarentena.",
+      "fecha": {
+        "day": "04",
+        "month": "04",
+        "year": "2020"
+      },
+      "num": "39",
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/lo-que-el-covid-19-se-llevo/Portada280x200.jpg",
+      "link": "post/lo-que-el-covid-19-se-llevo",
+      "structure": [{}]
+    },
+    { 
+      "title": "Mejorando la casa",
+      "cardColor":"#F2985A",
+      "abstract": "Ahora que estamos dentro podemos ver que realmente la casa no estaba adaptada a nosotros, así que es hora de hacerla realmente propia.",
+      "fecha": {
+        "day": "04",
+        "month": "04",
+        "year": "2020"
+      },
+      "num": "38",
+      "fotoPortada": " https://coronapage.s3-us-west-2.amazonaws.com/mejorando-la-casa/Portada280x200.jpg",
+      "link": "post/mejorando-la-casa",
+      "structure": [{}]
+    },
+    { 
+      "title": "Cámbiame el look COVID - 19",
+      "cardColor":"#40C19C",
+      "abstract": "El encierro ha provocado que hagamos a un lado el deber ser y experimentemos nuevas facetas, porque lo que pasa en la cuarentena se queda en la cuarentena.",
+      "fecha": {
+        "day": "04",
+        "month": "04",
+        "year": "2020"
+      },
+      "num": "37",
+      "fotoPortada": " https://coronapage.s3-us-west-2.amazonaws.com/cambiame-el-look-covid19/Portada280x200.jpg",
+      "link": "post/cambiame-el-look-covid19",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 11?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Pensamos que se nos viene una crisis, pero no, ¡ya estamos en una! Parece que la realidad nos está superando y aún no nos queremos dar cuenta.",
+      "fecha": {
+        "day": "03",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-11",
+      "structure": [{}]
+    },
+    { 
+      "title": "Que esto, que el otro, ¡salud!",
+      "cardColor":"#F7A7A6",
+      "abstract": "Saca la chela, la cheve, la cheluki, las frías o las guamas, el vino, unos tequilawers o lo que sea, porque con este calor da sed de la mala.",
+      "fecha": {
+        "day": "03",
+        "month": "04",
+        "year": "2020"
+      },
+      "num": "36",
+      "fotoPortada": " https://coronapage.s3-us-west-2.amazonaws.com/que-esto-que-el-otro-salud/Portada280x200.jpg",
+      "link": "post/que-esto-que-el-otro-salud",
+      "structure": [{}]
+    },
+    { 
+      "title": "Entre crisis nos veamos",
+      "cardColor":"#947EAC",
+      "abstract": "Nos proyectamos como una sociedad que ha sabido sortear y sobrevivir a las crisis, pero ¿estamos preparados para los efectos que dejará el COVID -19?",
+      "fecha": {
+        "day": "03",
+        "month": "04",
+        "year": "2020"
+      },
+      "num": "35",
+      "fotoPortada": " https://coronapage.s3-us-west-2.amazonaws.com/entre-crisis-nos-veamos/Portada280x200.jpg",
+      "link": "post/entre-crisis-nos-veamos",
+      "structure": [{}]
+    },
+    { 
+      "title": "Sin fuerza en el hogar",
+      "cardColor":"#59B3D5",
+      "abstract": "Pese a las leyes implementadas, las empleadas del hogar aún carecen de claridad para actuar en situaciones como la contingencia, esto las coloca en vulnerabilidad financiera y médica."   ,
+      "fecha": {
+        "day": "03",
+        "month": "04",
+        "year": "2020"
+      },
+      "num": "34",
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/sin-fuerza-en-el-hogar/Portada280x200.jpg",
+      "link": "post/sin-fuerza-en-el-hogar",
+      "structure": [{}]
+    },
+    
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 10?",
+      "cardColor":"#7FCEE3",
+      "abstract": "El Estado de Emergencia llegó y con él cambios que parecen ser cada vez más contundentes",
+      "fecha": {
+        "day": "02",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-10",
+      "structure": [{}]
+    },
+    { 
+      "title": "Había una vez un COVID - 19",
+      "cardColor":"#59B3D5",
+      "abstract": "Y al final ellos, los niños, lo entendieron mejor que nosotros…",
+      "fecha": {
+        "day": "02",
+        "month": "04",
+        "year": "2020"
+      },
+      "num": "33",
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/habia-una-vez-un-covid19/Portada280x200.jpg",
+      "link": "post/habia-una-vez-un-covid19",
+      "structure": [{}]
+    },
+    { 
+      "title": "Nuevos escenarios de la incertidumbre",
+      "cardColor":"#947EAC",
+      "abstract": "El anuncio del arribo a un “Estado de emergencia”, brinda una suerte de convencimiento emocional que nos prepara para la aparición de la Fase tres de la pandemia, con la conciencia de estar enfrentando nuevos escenarios de incertidumbre.",
+      "fecha": {
+        "day": "02",
+        "month": "04",
+        "year": "2020"
+      },
+      "num": "32",
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/nuevos-escenarios-de-la-incertidumbre/FOTO+PORTADA.jpg",
+      "link": "post/nuevos-escenarios-de-la-incertidumbre",
+      "structure": [{}]
+    },
+    { 
+      "title": "¿Dónde jugarán los niños?",
+      "cardColor":"#F9AC78",
+      "abstract": "Con escuelas cerradas y niños que entretener, los padres buscamos maneras de equilibrar trabajo y familia. Para las mujeres trabajadoras, una división equitativa en el cuidado puede hacer la diferencia entre lograrlo o morir en el intento.",
+      "fecha": {
+        "day": "02",
+        "month": "04",
+        "year": "2020"
+      },
+      "num": "31",
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/donde-jugaran-los-ninos/Portada280x200.jpg",
+      "link": "post/donde-jugaran-los-ninos",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 9?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Estar en casa nos permite apreciar las bondades del home office y retomar actividades que creíamos pérdidas o descubrir nuevas habilidades.",
+      "fecha": {
+        "day": "01",
+        "month": "04",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-9",
+      "structure": [{}]
+    },
+    { 
+      "title": "Esta cuarentena aprendí…",
+      "cardColor":"#65DBBC",
+      "abstract": "Sí, estamos encerrados, pero no por eso tenemos que estar aburridos…",
+      "fecha": {
+        "day": "01",
+        "month": "04",
+        "year": "2020"
+      },
+      "num": "30",
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/esta-cuarentena-aprendi/Portada280x200.jpg",
+      "link": "post/esta-cuarentena-aprendi",
+      "structure": [{}]
+    },
+    { 
+      "title": "TikTok: de territorio centennial a espacio lúdico durante la pandemia",
+      "cardColor":"#FF777B",
+      "abstract":"En medio de la incertidumbre por el COVID-19, TikTok poco a poco se posiciona como una herramienta recurrente contra el aburrimiento durante la cuarentena."
+      ,
+      "fecha": {
+        "day": "01",
+        "month": "04",
+        "year": "2020"
+      },
+      "num": "30",
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/tiktok-de-territorio-centennial-a-espacio-ludico-durante-la-pandemia/TT.png",
+      "link": "post/tiktok-de-territorio-centennial-a-espacio-ludico-durante-la-pandemia",
+      "structure": [{}]
+    },
+    { 
+      "title": "De Godín a Freelance: Lo bueno del home Office",
+      "cardColor":"#F7A7A6",
+      "abstract": "Adaptarse a una nueva circunstancia no deseada toma tiempo y disposición para hacerlo. Se odie o ame, el Home Office ha demostrado tener bondades que eran imperceptibles al inicio.",
+      "fecha": {
+        "day": "01",
+        "month": "04",
+        "year": "2020"
+      },
+      "num": "28",
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/de-godin-a-freelance-lo-bueno-del-home-office/Portada280x200.jpg",
+      "link": "post/de-godin-a-freelance-lo-bueno-del-home-office",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 8?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Y con la cuarentena, llego el momento de conectarnos desde otra perspectiva, con la música, el juego y la convivencia y con ello, dejarnos llevar para aligerar la presencia del Coronavirus.",
+      "fecha": {
+        "day": "31",
+        "month": "03",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-8",
+      "structure": [{}]
+    },
+    { 
+      "title": "¡Hágalo usted mismo!",
+      "cardColor":"#41CFE5",
+      "abstract": "¿Niños en casa y no sabemos cómo entretenerlos?, ¿queremos que se diviertan sin invertir un peso? Entonces, busquemos inspiración en la web, así la imaginación se desempolva y la creatividad sale a flote.",
+      "fecha": {
+        "day": "31",
+        "month": "03",
+        "year": "2020"
+      },
+      "num": "27",
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/hagalo-usted-mismo/Portada280x200.jpg",
+      "link": "post/hagalo-usted-mismo",
+      "structure": [{}]
+    },
+    { 
+      "title": "La vida sí es mejor cantando",
+      "cardColor":"#E7A628",
+      "abstract": "La presencia de la música en medio de la crisis por el COVID -19 no es casualidad. Ésta tiene el poder de aligerar, sanar, energizar, conectar y armonizar. Va más allá de paliar, es una cura para el alma y para no perder fe en la humanidad.",
+      "fecha": {
+        "day": "31",
+        "month": "03",
+        "year": "2020"
+      },
+      "num": "26",
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/la-vida-si-es-mejor-cantando/Portada280x200.jpg",
+      "link": "post/la-vida-si-es-mejor-cantando",
+      "structure": [{}]
+    },
+    { 
+      "title": "Querida, encontré a los niños",
+      "cardColor":"#94C5FB",
+      "abstract": "Nadie dijo que iba a ser fácil pasar la cuarentena con nuestros chamacos. Sin duda, es una etapa llena de aprendizajes, que se está convirtiendo en una nueva escuela de vida.",
+      "fecha": {
+        "day": "31",
+        "month": "03",
+        "year": "2020"
+      },
+      "num": "25",
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/querida-encontre-a-los-ninos/Portada280x200.jpg",
+      "link": "post/querida-encontre-a-los-ninos",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos el día 7?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Los retos a los que nos enfrentamos por el COVID-19, cada vez se hacen más tangibles, pero para superarlos, tenemos como aliado a lo digital.",
+      "fecha": {
+        "day": "30",
+        "month": "03",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-7",
+      "structure": [{}]
+    },
+    { 
+      "title": "Cuando nos enfrentamos cara a cara contra el COVID-19",
+      "cardColor":"#DD5D40",
+      "abstract": "La pandemia avanza y cada vez serán más las personas que vivirán la cuarentena con el virus, por ello es necesario que entendamos, normalicemos y nos solidaricemos en esta situación para que la crisis se lleve lo mejor de nosotros.",
+      "fecha": {
+        "day": "30",
+        "month": "03",
+        "year": "2020"
+      },
+      "num": "24",
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/cuando-nos-enfrentamos-cara-a-cara-contra-el-covid-19/portada.png",
+      "link": "post/cuando-nos-enfrentamos-cara-a-cara-contra-el-covid-19",
+      "structure": [{}]
+    },
+    { 
+      "title": "Tan lejos y tan cerca: El festejo desde casa",
+      "cardColor":"#BE61E5",
+      "abstract": "El distanciamiento social puede mermar en el estado de ánimo de los mexicanos que somos apapachadores, colectivos y de mucho contacto. La tecnología es una herramienta que puede ayudar a no desanimarnos y convivir con nuestros seres queridos.",
+      "fecha": {
+        "day": "30",
+        "month": "03",
+        "year": "2020"
+      },
+      "num": "23",
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/tan-lejos-y-tan-cerca-el-festejo-desde-casa/Portada.jpeg",
+      "link": "post/tan-lejos-y-tan-cerca-el-festejo-desde-casa",
+      "structure": [{}]
+    },
+    { 
+      "title": "Las escapadas permitidas",
+      "cardColor":"#86D888",
+      "abstract": "La cuarentena colectiva parece ser nueva para muchos mexicanos, es por eso que estamos trabajando en asumirla y adaptarnos. Sin embargo, hay razones que van más allá de nosotros que nos obligan a salir de casa por momentos",
+      "fecha": {
+        "day": "30",
+        "month": "03",
+        "year": "2020"
+      },
+      "num": "22",
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/las-escapadas-permitidas/PORTADAB.jpg",
+      "link": "post/las-escapadas-permitidas",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos en el día 6?",
+      "cardColor":"#7FCEE3",
+      "abstract": 
+     "La incertidumbre aumenta conforme la epidemia crece. Esto nos ha puesto en una posición de alerta que requiere de nuestro ingenio para mantenernos alejados de la sensación de crisis y la precariedad.",
+      "fecha": {
+        "day": "29",
+        "month": "03",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-6",
+      "structure": [{}]
+    },
+    
+    { 
+      "title": " De Venezuela para México, con amor",
+      "cardColor":"#94C5FB",
+      "abstract": "¿Quieres un consejo?, si tienes un venezolano cerca, aprende de él, porque su experiencia y resiliencia nos puede ayudar a entender y conciliar mejor con el COVID-19.",
+      "fecha": {
+        "day": "29",
+        "month": "03",
+        "year": "2020"
+      },
+      "num": "21",
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/de-venezuela-para-mexico-con-amor/Foto+de+portada.jpeg",
+      "link": "post/de-venezuela-para-mexico-con-amor",
+      "structure": [{}]
+    },
+    { 
+      "title": "Huyendo del fantasma de la precariedad",
+      "cardColor":"#E7A628",
+      "abstract": "Las crisis económicas nos han enseñado que uno puede verse limitado, pero siempre hay “salvavidas” que evitan que el agua nos llegue al cuello. Una lección para recordar en tiempos de Coronavirus.",
+      "fecha": {
+        "day": "29",
+        "month": "03",
+        "year": "2020"
+      },
+      "num": "20",
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/huyendo-del-fantasma-de-la-precariedad/PORTADA.jpeg",
+      "link": "post/huyendo-del-fantasma-de-la-precariedad",
+      "structure": [{}]
+    },
+    { 
+      "title": "¿Y si aprovechamos el encierro para consentirnos?",
+      "cardColor":"#8490FB",
+      "abstract": "La cuarentena es un tema serio, pero no es motivo para pasarla mal, así que relajémonos un rato y vamos a darnos un gusto.",
+      "fecha": {
+        "day": "29",
+        "month": "03",
+        "year": "2020"
+      },
+      "num": "19",
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/y-si-aprovechamos-el-encierro-para-para-consentirnos/PORTADA.jpeg",
+      "link": "post/y-si-aprovechamos-el-encierro-para-para-consentirnos",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos en el día 5?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Fenómenos extraordinarios como el COVID-19 nos están haciendo tomar decisiones cada vez más conscientes no solo para mantenernos a flote, sino para mejorar hábitos y ser consumidores un poco más responsables.",
+      "fecha": {
+        "day": "28",
+        "month": "03",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-5",
+      "structure": [{}]
+    },
+    { 
+      "title": " El kit de supervivencia para el apocalipsis",
+      "cardColor":"#86D888",
+      "abstract": "¿Contagio, Virus, Epidemia?, no sólo refiere al COVID-19, son películas que hoy parecieran un oráculo de lo que estamos enfrentando y que retratan el comportamiento (ir)racional en tiempos de crisis.",
+      "fecha": {
+        "day": "28",
+        "month": "03",
+        "year": "2020"
+      },
+      "num": "18",
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/el-kit-de-supervivencia-para-el-apocalipsis/Foto+de+portada.jpeg",
+      "link": "post/el-kit-de-supervivencia-para-el-apocalipsis",
+      "structure": [{}]
+    },
+    { 
+      "title": "La compulsión que en mí dormía",
+      "cardColor":"#DD5D40",
+      "abstract": "Limpiar, comprar, guardar y repetir. Limpiar, comprar, guardar y repetir…",
+      "fecha": {
+        "day": "28",
+        "month": "03",
+        "year": "2020"
+      },
+      "num": "17",
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/la-compulsion-que-en-mi-dormia/Foto+portada.png",
+      "link": "post/la-compulsion-que-en-mi-dormia",
+      "structure": [{}]
+    },
+    { 
+      "title": "¡Uy!, ¡chopita! Y de mamá….",
+      "cardColor":"#E7A628",
+      "abstract": "¡Nuevo año… no no no! Nuevo aislamiento, nuevo yo. Parece que llevamos siglos encerrados entre cuatro paredes, que el COVID-19 nos tiene en bajo un estándar riguroso de orden y limpieza y el panorama pinta a que puede ir para largo… pero si algo nos queda, es el sabor de hogar.",
+      "fecha": {
+        "day": "28",
+        "month": "03",
+        "year": "2020"
+      },
+      "num": "16",
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/uy-chopita-y-de-mama/PORTADA.jpeg",
+      "link": "post/uy-chopita-y-de-mama",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos en el día 4?",
+      "cardColor":"#7FCEE3",
+      "abstract": "El modo de relacionarnos con la comida y sus aplicaciones está cambiando, queremos actuar con empatía, pero aún no recibimos mensajes claros de cuáles son las acciones que debemos aplicar para enfrentarnos con seguridad al virus que ha puesto en pausa al mundo.",
+      "fecha": {
+        "day": "27",
+        "month": "03",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-4",
+      "structure": [{}]
+    },
+    { 
+      "title": "¿Importa más la economía que la salud?",
+      "cardColor":"#DD5D40",
+      "num": "15",
+      "abstract": "En medio de discursos contrastantes sobre salir o no de casa, hoy el terror de una crisis económica se hace más fuerte entre los mexicanos, incluso por encima de la agenda de salud.",
+      "fecha": {
+        "day": "27",
+        "month": "03",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/importa-mas-la-economia-que-la-salud/SP_280x200.jpg",
+      "link": "post/importa-mas-la-economia-que-la-salud",
+      "structure": [{}]
+    },
+    
+    { 
+      "title": "#NOEstásSolo #EstamosContigo…desde la web.",
+      "cardColor":"#94C5FB",
+      "num": "14",
+      "abstract": "Varios micro negocios de comida que nos rodean siguen de pie – al igual que los mexicanos que viven al día -, resistiendo al COVID – 19, pero ¿qué va a pasar con ellos si pasamos a fase 3?",
+      "fecha": {
+        "day": "27",
+        "month": "03",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/noestassolo-estamoscontigodesde-la-web/Foto+portada.jpeg",
+      "link": "post/noestassolo-estamoscontigodesde-la-web",
+      "structure": [{}]
+    },
+    { 
+      "title": "Cuando la higiene nos alcance",
+      "cardColor":"#8490FB",
+      "num": "13",
+      "abstract": "A la sombra de la pandemia, las aplicaciones de entrega de comida a domicilio se han encontrado, con barreras importantes para ser elegidas dentro del encierro por el COVID -19.",
+      "fecha": {
+        "day": "27",
+        "month": "03",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/cuando-la-higiene-nos-alcance/Foto+de+Portada.jpeg",
+      "link": "post/cuando-la-higiene-nos-alcance",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos en el día 3?",
+      "cardColor":"#7FCEE3",
+      "abstract": "Al margen de las declaraciones oficiales del gobierno mexicano sobre contagios, medidas y fases; la gente tiene un termómetro de acontecimientos para medir la gravedad del COVID-19.",
+      "fecha": {
+        "day": "26",
+        "month": "03",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-3",
+      "structure": [{}]
+    },
+    { 
+      "title": "¿Evasión? No, yo sólo estoy viendo mi película favorita",
+      "cardColor":"#BE61E5",
+      "abstract": "El papel de las plataformas de streaming durante la cuarentena no sólo se relaciona con entretenimiento, hoy están siendo un mecanismo de defensa para enfrentar los cambios producto del COVID -19.",
+      "fecha": {
+        "day": "26",
+        "month": "03",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/evasion-no-yo-solo-estoy-viendo-mi-pelicula-favorita/Portada.jpeg",
+      "link": "post/evasion-no-yo-solo-estoy-viendo-mi-pelicula-favorita",
+      "structure": [{}]
+    },
+    { 
+      "title": "(Des)Fase II: Viviendo a destiempo el COVID-19",
+      "cardColor":"#E7A628",
+      "abstract": "Los mexicanos estamos viviendo el COVID-19 entre la aparente calma y el miedo a las posibles consecuencias de no hacer lo suficiente para frenarlo. Esto marca nuestro estado de ánimo, pues lo vivimos desde diferentes “tiempos”",
+      "fecha": {
+        "day": "26",
+        "month": "03",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/desfase-ii-viviendo-a-destiempo-el-covid-19/Portada.jpg",
+      "link": "post/desfase-ii-viviendo-a-destiempo-el-covid-19",
+      "structure": [{}]
+    },
+    { 
+      "title": "Flotando en información",
+      "cardColor":"#94C5FB",
+      "abstract": " Y cuando uno cree que ya lo sabe todo, salen nuevos datos…",
+      "fecha": {
+        "day": "26",
+        "month": "03",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/flotando-en-informacion/PORTADA.jpg",
+      "link": "post/flotando-en-informacion",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos en el día 2?",
+      "cardColor":"#7FCEE3",
+      "abstract": "En menos de 10 días, la cuarentena está logrando lo que a muchos productos les tomó meses lograr: modificar, introducir o suprimir- de momento- rituales en la cotidiano de la gente. Las compras, familia e higiene son rituales en ebullición",
+      "fecha": {
+        "day": "25",
+        "month": "03",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-2",
+      "structure": [{}]
+    },
+    { 
+      "title": "Neo rituales de higiene",
+      "cardColor":"#86D888",
+      "abstract": "La pandemia del COVID19 ha puesto en la mesa de los mexicanos la importancia de la higiene como la única herramienta (hasta ahora) aceptada por consenso, para prevenir que el virus se propague más rápido.",
+      "fecha": {
+        "day": "25",
+        "month": "03",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/neo-rituales-de-higiene/Foto-portada.jpg",
+      "link": "post/neo-rituales-de-higiene",
+      "structure": [{}]
+    },
+    { 
+      "title": "¡Qué bonita familia!, ¿o no?",
+      "cardColor":"#DD5D40",
+      "abstract": "Somos un país colectivo, en el que las decisiones se toman en grupo y donde la familia (de sangre, elegida o prestada) es la que nos guía y la que nos valida. Pero ¿qué tanto queremos aplicar el “mueganismo” en tiempos de #Coronavirus?",
+      "fecha": {
+        "day": "25",
+        "month": "03",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/que-bonita-familia-o-no/Foto+de+portada.jpeg",
+      "link": "post/que-bonita-familia-o-no",
+      "structure": [{}]
+    },
+    { 
+      "title": "La lógica detrás de las compras de pánico",
+      "cardColor":"#8490FB",
+      "abstract": "Tras la llegada de el COVID-19 a nuestro país, los mexicanos comenzamos a hacer compras desesperadas en los supermercados disimulando no estar pasando por un ataque de pánico. Ahora con la escasez, los consumidores no reconocen esta acción",
+      "fecha": {
+        "day": "25",
+        "month": "03",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/la-logica-detras-de-las-compras-de-panico/GIF+de+portada+1.gif",
+      "link": "post/la-logica-detras-de-las-compras-de-panico",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dosis de realidad: ¿Qué aprendimos de los mexicanos en el día 1?",
+      "cardColor":"#7FCEE3",
+      "abstract": "A 24 horas de oficialmente entrar a la fase 2, los mexicanos tienen momentos de iluminación sobre su postura ante la crisis. Algunos cayeron en cuenta que el encierro implica sacrificios y están (auto)negociando su adaptación y otros, que siguen una vida normal.",
+      "fecha": {
+        "day": "24",
+        "month": "03",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1/Mesa+de+trabajo+2+copia.png",
+      "link": "post/dosis-de-realidad-que-aprendimos-de-los-mexicanos-en-el-dia-1",
+      "structure": [{}]
+    },
+    { 
+      "title": "Dos caras de la cuarentena",
+      "cardColor":"#BE61E5",
+      "abstract": "No existe una única forma de vivir el encierro: para algunos significa lidiar con el tedio del día a día y buscar nuevas actividades para adaptarse a una situación que sienten hostil, para otros, la simple continuidad de su rutina",
+      "fecha": {
+        "day": "24",
+        "month": "03",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/dos-caras-de-la-cuarentena/Portada.jpg",
+      "link": "post/dos-caras-de-la-cuarentena",
+      "structure": [{}]
+    },
+    { 
+      "title": "Darwinismo Godín: sobreviviendo al Home Office",
+      "cardColor":"#E7A628",
+      "abstract": "El Home Office tiene barreras a vencer para adaptar la vida laboral ante la medida “Quédate en casa” generada por el coronavirus. Esto significa un cambio de ‘mindset’ para lograr adaptarse a una realidad no pedida. ",
+      "fecha": {
+        "day": "24",
+        "month": "03",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/darwinismo-godin-sobreviviendo-al-home-office/Foto+1.jpeg",
+      "link": "post/darwinismo-godin-sobreviviendo-al-home-office",
+      "structure": [{}]
+    },
+    { 
+      "title": "Hashtag YoMeQuedoEnCasa #COVID-19",
+      "cardColor":"#94C5FB",
+      "abstract": "Todo el tiempo compartimos lo que hacemos con la esperanza de convertirnos en tendencia. El encierro por COVID-19 se volvió el caldo de cultivo perfecto para dibujar frutas, hacer retos de baile y hasta fiestas virtuales. ",
+      "fecha": {
+        "day": "24",
+        "month": "03",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/hashtag-yomequedoencasa-covid-19/PORTADA+1.jpeg",
+      "link": "post/hashtag-yomequedoencasa-covid-19",
+      "structure": [{}]
+    },
+    { 
+      "title": "Nadie sabe lo que tiene hasta que le estorba",
+      "cardColor": "#DD5D40",
+      "abstract": "Tomar conciencia de nuestra tendencia a acumular nos lleva a la reflexión de si nuestra manera de comprar nos coloca en el lugar que deseamos tener en el mundo",
+      "fecha": {
+        "day": "23",
+        "month": "03",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/nadie-sabe-lo-que-tiene-hasta-que-le-estorba/Foto-1.JPG",
+      "link": "post/nadie-sabe-lo-que-tiene-hasta-que-le-estorba",
+      "structure": [{}]
+    },
+    
+    { 
+      "title": "¡Cómo te extraño mi amor!, ¿por qué será?",
+      "cardColor": "#86D888",
+      "abstract": "Dice un dicho popular que no nos damos cuenta del valor de las cosas hasta que las perdemos, donamos, nos las roban, nos las prohíben o restringen. Y sí, eso aplica para lo que hoy vivimos frente al COVID -19.",
+      "fecha": {
+        "day": "23",
+        "month": "03",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/como-te-extrano-mi-amor-por-que-sera/portada.jpeg",
+      "link": "post/como-te-extrano-mi-amor-por-que-sera",
+      "structure": [{}]
+    },
+    { 
+      "title": "La redefinición del encierro",
+      "cardColor": "#8490FB",
+      "abstract": "Encerrarse no es tan fácil como parece. La excusa del tiempo ha desaparecido. Es por eso que también muchos estamos aprovechando el momento de encierro para conectar con nosotros mismos y ver desde una nueva perspectiva nuestro estilo de vida. ",
+      "fecha": {
+        "day": "23",
+        "month": "03",
+        "year": "2020"
+      },
+      "fotoPortada": "https://coronapage.s3-us-west-2.amazonaws.com/la-redefinicion-del-encierro/FOTO-1.jpg",
+      "link": "post/la-redefinicion-del-encierro",
+      "structure": [{}]
+    }
+    
+    
+  ]
+}
